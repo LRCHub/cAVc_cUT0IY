@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "足音",
+  "base_artist": "171",
+  "createdAt": "2026-03-15T13:39:05.890575Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "足音 ~Be Strong",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/01_足音_~Be_Strong_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "足音",
+      "artist": "KOKIA",
+      "has_synced": false,
+      "path": "select/02_足音_KOKIA.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "足音～Be Strong",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/03_足音~Be_Strong_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "足音~Be Strong -オルゴール-",
+      "artist": "オルゴール ミドリ",
+      "has_synced": false,
+      "path": "select/04_足音~Be_Strong_-オルゴール-_オルゴール_ミドリ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "足音 ～Be Strong",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/05_足音_~Be_Strong_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "足音 〜Be Strong",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/06_足音_〜Be_Strong_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "足音 ～Be Strong",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/07_足音_~Be_Strong_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "足音 ～ Be Strong",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/08_足音_~_Be_Strong_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "足音",
+      "artist": "KOKIA",
+      "has_synced": true,
+      "path": "select/09_足音_KOKIA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "足音 ～Be Strong",
+      "artist": "Mr. Children",
+      "has_synced": true,
+      "path": "select/10_足音_~Be_Strong_Mr._Children.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "足音",
+      "artist": "槇原敬之",
+      "has_synced": false,
+      "path": "select/11_足音_槇原敬之.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "足音",
+      "artist": "Makihara Noriyuki",
+      "has_synced": true,
+      "path": "select/12_足音_Makihara_Noriyuki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "足音",
+      "artist": "171",
+      "has_synced": false,
+      "path": "select/pl_01_足音_171.txt"
+    }
+  ]
+}
